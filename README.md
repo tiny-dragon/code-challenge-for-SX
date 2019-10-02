@@ -1,7 +1,6 @@
 #  Simple Auction Management System
 A  simple auction management system built with MongoDB, Express, Node.js and ReactJS.
 
-
 * [Getting started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -129,74 +128,3 @@ npm run dev
 
 Open in your browser and navigate to http://localhost:3000. You access the back-end on http://localhost:5000.
 
-## About project
-You are to design, build, deploy, and present an application built for a real world customer.
-
-Find a business or organisation nearby to Coder Academy to build an application for.
-
-Meet with the business owner or organisation manager to find out what challenges they face. Find a problem that you can solve with an application and present your ideas to the client.
-
-### Problem
-
-### Solution
-
-## Planning
-
-
-
-### Audience
-
-
-### User Stories
-**Note** The user stories which apply to lower-level users (for example, a basic user) also apply to high-level users.
-
-#### All staff
-
-
-
-#### Product Owner
-
-
-
-#### Admin Users
-
-
-
-#### Business Unit Representative
-
-
-
-### Requirements
-[x] Backend - Node.js
-[x] Frontend - ReactJS
-[x] MongoDB and Mongoose
-[x] Authentication (Google OAuth)
-[x] Authorisation
-[x] Filtering capability
-[x] User interface
-[x] Deploye back-end, front-end and host database
-[x] README
-
-### Technologies
-- Node.js
-- Express
-- Express-Fileupload
-- MongoDB
-- Mongoose
-- React.js
-- Moment.js
-- MomentTimezone.js
-- Stylus
-## Challenges and final thoughts
-
-### Challenges
-
-
-## Future developments
-- Weekly and monthly views
-- Searching
-- User permissions
-- CMS
-- Google Calendar
-
-## Team
